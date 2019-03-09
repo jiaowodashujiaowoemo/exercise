@@ -1,6 +1,8 @@
 package javaFoundation;
 
-import java.util.*;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.ListIterator;
 
 /**
  * @Author ChenXiang
@@ -32,6 +34,9 @@ public class collection {
         ((LinkedList<String>) staff).remove();
         System.out.println(staff);
 
+//        ConcurrentHashMap
+//        HashTable
+//        Dictionary
 //        Iterator iterator1 = staff.iterator();
 //
 //        int[] a =new int[4];
