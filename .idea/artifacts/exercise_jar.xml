@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="exercise:jar">
+    <output-path>$PROJECT_DIR$/artifacts/exercise_jar</output-path>
+    <root id="archive" name="exercise.jar">
+      <element id="module-output" name="exercise" />
+      <element id="module-output" name="practice" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hbase-0.94.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-io-2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-lang-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hadoop-ant-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-net-1.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-pool2-2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hadoop-core-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hadoop-test-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hadoop-tools-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hbase-0.94.4-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/logback-core-1.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hadoop-client-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hadoop-examples-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/logback-classic-1.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hadoop-minicluster-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-configuration-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/scala-lang/scala-reflect/2.10.4/scala-reflect-2.10.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

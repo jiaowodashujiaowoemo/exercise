@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="exercise:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f214b710-79b7-4456-8928-c2f4d4319eef" name="Default" comment="简历">
+      <change afterPath="$PROJECT_DIR$/JobHunting/中国银行/比特币最佳买卖时机/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/剑指offer/二维数组查找/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/剑指offer/倒排链表/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/剑指offer/字符串空格替换/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/春招/三六零/组队吃鸡/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/第二题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/零钱组合/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/鸡鸭不相邻/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JobHunting/JobHunting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JobHunting/JobHunting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JobHunting/src/ArraySumviaHourglass.java" beforeDir="false" afterPath="$PROJECT_DIR$/JobHunting/练习/沙漏型求数组最终值/ArraySumviaHourglass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/test.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JobHunting/中国银行/比特币最佳买卖时机/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/二维数组查找/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/字符串空格替换/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/倒排链表/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/三六零/组队吃鸡/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/腾讯/零钱组合/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/腾讯/第二题.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>singleton</find>
+      <find>nco</find>
+      <find>nCopies</find>
+      <find>emptySet</find>
+      <find>subList</find>
+      <find>array</find>
+      <find>ArrayList</find>
+      <find>unmodifiableS</find>
+      <find>nCop</find>
+      <find>asList</find>
+      <find>toString</find>
+      <find>put</find>
+      <find>get</find>
+      <find>count</find>
+      <find>segment</find>
+      <find>volatile</find>
+      <find>Segment</find>
+      <find>hashmap</find>
+      <find>hashtable</find>
+      <find>node</find>
+      <find>Node</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/practice/src/IntConsumer.java" />
+        <option value="$PROJECT_DIR$/practice/src/lambda.java" />
+        <option value="$PROJECT_DIR$/practice/src/staticInner.java" />
+        <option value="$PROJECT_DIR$/practice/src/javaFoundation/staticInner.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/practice/src/javaFoundation/genericProgramming.java" />
+        <option value="$PROJECT_DIR$/practice/src/Scala/scala1.scala" />
+        <option value="$PROJECT_DIR$/practice/src/Scala/BiBao.scala" />
+        <option value="$PROJECT_DIR$/practice/src/Scala/classTest.scala" />
+        <option value="$PROJECT_DIR$/practice/src/JavaConcurrency/atomic.java" />
+        <option value="$PROJECT_DIR$/practice/src/javaFoundation/inherit.java" />
+        <option value="$PROJECT_DIR$/practice/src/javaFoundation/file.java" />
+        <option value="$PROJECT_DIR$/practice/src/javaFoundation/logFile.java" />
+        <option value="$PROJECT_DIR$/practice/src/javaFoundation/lambda.java" />
+        <option value="$PROJECT_DIR$/practice/src/javaFoundation/HdfsOperation.java" />
+        <option value="$PROJECT_DIR$/practice/src/javaFoundation/Test.java" />
+        <option value="$PROJECT_DIR$/practice/src/javaFoundation/SetRemove.java" />
+        <option value="$PROJECT_DIR$/practice/src/javaFoundation/FinalFinal.java" />
+        <option value="$PROJECT_DIR$/practice/src/javaFoundation/FinalTest.java" />
+        <option value="$PROJECT_DIR$/practice/src/javaFoundation/ImmutableObject.java" />
+        <option value="$PROJECT_DIR$/practice/src/javaFoundation/paramsWithNull.java" />
+        <option value="$PROJECT_DIR$/practice/src/JavaConcurrency/MyThreadTest.java" />
+        <option value="$PROJECT_DIR$/JobHunting/src/ArraySumASHourglass.java" />
+        <option value="$PROJECT_DIR$/JobHunting/src/ArraySumviaHourglass.java" />
+        <option value="$PROJECT_DIR$/practice/src/JavaConcurrency/SyncTest.java" />
+        <option value="$PROJECT_DIR$/practice/src/JavaConcurrency/SyTest.java" />
+        <option value="$PROJECT_DIR$/practice/src/javaFoundation/collection.java" />
+        <option value="$PROJECT_DIR$/practice/src/JavaConcurrency/Test.java" />
+        <option value="$PROJECT_DIR$/practice/src/test.java" />
+        <option value="$PROJECT_DIR$/JobHunting/src/鸡鸭不相邻/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/src/中国银行/比特币最佳买卖时机/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/中国银行/比特币最佳买卖时机/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/中国银行/Main1.java" />
+        <option value="$PROJECT_DIR$/JobHunting/中国银行/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/中国银行/比特币最佳买卖时机/Main2.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/剑指offer/二维数组查找/Solution.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/剑指offer/字符串空格替换/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/剑指offer/倒排链表/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/春招360/组队吃鸡/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/春招/春招360/组队吃鸡/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/三六零/组队吃鸡/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/春招/三六零/组队吃鸡/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/第二题.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/面值/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/零钱组合/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="JobHunting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="JobHunting" type="462c0819:PsiDirectoryNode" />
+              <item name="练习" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="JobHunting" type="462c0819:PsiDirectoryNode" />
+              <item name="练习" type="462c0819:PsiDirectoryNode" />
+              <item name="春招" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="JobHunting" type="462c0819:PsiDirectoryNode" />
+              <item name="练习" type="462c0819:PsiDirectoryNode" />
+              <item name="春招" type="462c0819:PsiDirectoryNode" />
+              <item name="腾讯" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="JobHunting" type="462c0819:PsiDirectoryNode" />
+              <item name="练习" type="462c0819:PsiDirectoryNode" />
+              <item name="春招" type="462c0819:PsiDirectoryNode" />
+              <item name="腾讯" type="462c0819:PsiDirectoryNode" />
+              <item name="零钱组合" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="JobHunting" type="462c0819:PsiDirectoryNode" />
+              <item name="练习" type="462c0819:PsiDirectoryNode" />
+              <item name="腾讯往年" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554646390104" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dataImport" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEAWorkSpace\exercise" />
+      <recent name="E:\IDEAWorkSpace\exercise\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEAWorkSpace\exercise\JobHunting\练习\春招\腾讯\面值" />
+      <recent name="E:\IDEAWorkSpace\exercise\JobHunting" />
+      <recent name="E:\IDEAWorkSpace\exercise" />
+      <recent name="E:\IDEAWorkSpace\exercise\practice" />
+      <recent name="E:\IDEAWorkSpace\exercise\practice\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JobHunting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.字符串空格替换.Main" />
+      <module name="JobHunting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="剑指offer.字符串空格替换.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="春招.腾讯.Main" />
+      <module name="JobHunting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="春招.腾讯.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="春招.春招360.组队吃鸡.Main" />
+      <module name="JobHunting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="春招.春招360.组队吃鸡.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="比特币最佳买卖时机.Main2" />
+      <module name="JobHunting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="比特币最佳买卖时机.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.二维数组查找.Solution" />
+      <module name="JobHunting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="剑指offer.二维数组查找.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Main2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration useDefault="false">D:\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f214b710-79b7-4456-8928-c2f4d4319eef" name="Default" comment="" />
+      <created>1535013574474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535013574474</updated>
+      <workItem from="1535013576168" duration="694000" />
+      <workItem from="1535016804213" duration="576000" />
+      <workItem from="1536635209987" duration="3883000" />
+      <workItem from="1536830546199" duration="5110000" />
+      <workItem from="1537151741641" duration="3651000" />
+      <workItem from="1537359335074" duration="5552000" />
+      <workItem from="1537425187230" duration="32000" />
+      <workItem from="1537845808281" duration="1713000" />
+      <workItem from="1537930363201" duration="2449000" />
+      <workItem from="1538984361433" duration="1514000" />
+      <workItem from="1539662301953" duration="1281000" />
+      <workItem from="1540358926639" duration="352000" />
+      <workItem from="1540817768236" duration="2871000" />
+      <workItem from="1541554302900" duration="2740000" />
+      <workItem from="1541558942023" duration="75000" />
+      <workItem from="1541559764690" duration="512000" />
+      <workItem from="1541562820364" duration="621000" />
+      <workItem from="1541572280880" duration="913000" />
+      <workItem from="1542550328715" duration="2102000" />
+      <workItem from="1542593389715" duration="9319000" />
+      <workItem from="1542681950314" duration="7135000" />
+      <workItem from="1542766429040" duration="5526000" />
+      <workItem from="1543236968546" duration="845000" />
+      <workItem from="1543492043257" duration="1709000" />
+      <workItem from="1543738638770" duration="599000" />
+      <workItem from="1543927948358" duration="3400000" />
+      <workItem from="1544056553977" duration="3210000" />
+      <workItem from="1544492126686" duration="1619000" />
+      <workItem from="1544503268390" duration="604000" />
+      <workItem from="1544516545689" duration="3325000" />
+      <workItem from="1544681669004" duration="7690000" />
+      <workItem from="1545636989139" duration="1158000" />
+      <workItem from="1547790206201" duration="53000" />
+      <workItem from="1551015171083" duration="6165000" />
+      <workItem from="1551145224230" duration="892000" />
+      <workItem from="1551146470746" duration="9524000" />
+      <workItem from="1551270148275" duration="2560000" />
+      <workItem from="1551333156935" duration="10959000" />
+      <workItem from="1551404739821" duration="6243000" />
+      <workItem from="1551412943660" duration="4061000" />
+      <workItem from="1552142862947" duration="62000" />
+      <workItem from="1552716815872" duration="6213000" />
+      <workItem from="1552812878308" duration="10678000" />
+      <workItem from="1552884768266" duration="3010000" />
+      <workItem from="1553155993841" duration="5448000" />
+      <workItem from="1553218655846" duration="3103000" />
+      <workItem from="1553610577944" duration="732000" />
+      <workItem from="1553750314923" duration="7053000" />
+      <workItem from="1554031982140" duration="8466000" />
+      <workItem from="1554191749525" duration="678000" />
+      <workItem from="1554292208929" duration="3813000" />
+      <workItem from="1554462991443" duration="7242000" />
+    </task>
+    <task id="LOCAL-00001" summary="简历">
+      <created>1552142925242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552142925243</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_Features_in__Scala - 2018.11.21 at 13h 01m 39s.xml">
+      <configuration name="All Features in: Scala" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="179735000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08315451" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.042410713" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.042410713" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5792411" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.0" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.11383928" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Log Viewer" order="13" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="14" />
+      <window_info anchor="bottom" id="SOQL Query" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3299356" />
+      <window_info anchor="right" id="SciView" order="9" weight="0.3299356" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="简历" />
+    <option name="LAST_COMMIT_MESSAGE" value="简历" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/practice/src/javaFoundation/paramsWithNull.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/Desktop/netcdfAll-4.6.jar!/ucar/coord/CoordinateSharer.class" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="933" column="26" selection-start-line="933" selection-start-column="18" selection-end-line="933" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/src/javaFoundation/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/src/javaFoundation/SetRemove.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/production/practice/javaFoundation/FinalTest.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/src/javaFoundation/staticInner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/src/javaFoundation/HdfsOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="53" column="33" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/src/javaFoundation/paramsWithNull.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/src/javaFoundation/FinalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/src/javaFoundation/genericProgramming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/src/JavaConcurrency/atomic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.jar!/scala/collection/mutable/HashTable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/production/practice/JavaConcurrency/SyncTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-266">
+          <folding>
+            <element signature="e#0#743#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Dictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2816">
+          <caret line="169" column="4" selection-start-line="169" selection-start-column="4" selection-end-line="169" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2200">
+          <caret line="134" column="19" selection-start-line="134" selection-start-column="19" selection-end-line="134" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15070">
+          <caret line="742" column="16" selection-start-line="742" selection-start-column="16" selection-end-line="742" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/production/practice/JavaConcurrency/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/src/javaFoundation/collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/JobHunting.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="218" column="23" selection-start-line="218" selection-start-column="23" selection-end-line="218" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/src/JavaConcurrency/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/concurrent/locks/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2926">
+          <caret line="166" column="17" selection-start-line="166" selection-start-column="17" selection-end-line="166" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1606">
+          <caret line="107" column="62" selection-start-line="107" selection-start-column="62" selection-end-line="107" selection-end-column="62" />
+          <folding>
+            <element signature="e#8176#8177#0" expanded="true" />
+            <element signature="e#8216#8217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/中国银行/Main1.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="122" column="17" lean-forward="true" selection-start-line="122" selection-start-column="17" selection-end-line="122" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/中国银行/比特币最佳买卖时机/Main2.java" />
+    <entry file="file://$PROJECT_DIR$/JobHunting/中国银行/Main.java" />
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/沙漏型求数组最终值/ArraySumviaHourglass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42504">
+          <caret line="2006" column="31" selection-start-line="2006" selection-start-column="31" selection-end-line="2006" selection-end-column="31" />
+          <folding>
+            <element signature="e#75360#75361#0" expanded="true" />
+            <element signature="e#75407#75408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="174" column="22" selection-start-line="174" selection-start-column="22" selection-end-line="174" selection-end-column="22" />
+          <folding>
+            <element signature="e#4139#4140#0" expanded="true" />
+            <element signature="e#4164#4165#0" expanded="true" />
+            <element signature="e#5656#5657#0" expanded="true" />
+            <element signature="e#5691#5692#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="128" column="47" lean-forward="true" selection-start-line="128" selection-start-column="47" selection-end-line="128" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/鸡鸭不相邻/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="40" column="46" lean-forward="true" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="136" column="13" selection-start-line="136" selection-start-column="13" selection-end-line="136" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12188">
+          <caret line="622" column="32" selection-start-line="622" selection-start-column="32" selection-end-line="622" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4114">
+          <caret line="226" column="40" selection-start-line="226" selection-start-column="40" selection-end-line="226" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="259" column="7" selection-start-line="259" selection-start-column="7" selection-end-line="259" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="789">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="789">
+          <caret line="2221" column="17" selection-start-line="2221" selection-start-column="11" selection-end-line="2221" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/src/javaFoundation/ImmutableObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/src/JavaConcurrency/MyThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="789">
+          <caret line="64" column="3" selection-start-line="64" selection-start-column="3" selection-end-line="64" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/中国银行/比特币最佳买卖时机/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/二维数组查找/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/字符串空格替换/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/倒排链表/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/三六零/组队吃鸡/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/腾讯/第二题.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/腾讯/零钱组合/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>exercise:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JobHunting</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
