@@ -7,17 +7,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f214b710-79b7-4456-8928-c2f4d4319eef" name="Default" comment="简历">
-      <change afterPath="$PROJECT_DIR$/JobHunting/中国银行/比特币最佳买卖时机/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/剑指offer/二维数组查找/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/剑指offer/倒排链表/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/剑指offer/字符串空格替换/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/春招/三六零/组队吃鸡/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/第二题.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/零钱组合/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/鸡鸭不相邻/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/春招/京东/第二题/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/春招/京东/紧急疏散/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/春招/完美世界/第一题/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/春招/完美世界/第二题/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/零钱组合/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/exercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JobHunting/JobHunting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JobHunting/JobHunting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JobHunting/src/ArraySumviaHourglass.java" beforeDir="false" afterPath="$PROJECT_DIR$/JobHunting/练习/沙漏型求数组最终值/ArraySumviaHourglass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JobHunting/中国银行/比特币最佳买卖时机/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/第二题.java" beforeDir="false" afterPath="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/二进制相邻01抵消/第二题.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/零钱组合/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/零钱组合/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JobHunting/春招/腾讯/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JobHunting/春招/腾讯/第二题.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JobHunting/比特币最佳买卖时机/Main.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,13 +30,25 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/exercise$main.coverage" NAME="main Coverage Results" MODIFIED="1555038236038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/零钱组合" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JobHunting/中国银行/比特币最佳买卖时机/Main.java">
+        <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/三六零/组队吃鸡/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+            <state relative-caret-position="396">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/京东/紧急疏散/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,55 +57,66 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/二维数组查找/Solution.java">
+        <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/京东/第二题/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/字符串空格替换/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/倒排链表/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/三六零/组队吃鸡/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            <state relative-caret-position="528">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/腾讯/零钱组合/Main.java">
+        <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/完美世界/第一题/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="41">
+              <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/腾讯/第二题.java">
+        <entry file="file://$PROJECT_DIR$/config.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/完美世界/第二题/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+            <state relative-caret-position="770">
+              <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JobHunting/练习/鸡鸭不相邻/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/腾讯/二进制相邻01抵消/第二题.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -100,6 +127,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Python Script" />
         <option value="Class" />
       </list>
     </option>
@@ -135,9 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practice/src/IntConsumer.java" />
-        <option value="$PROJECT_DIR$/practice/src/lambda.java" />
-        <option value="$PROJECT_DIR$/practice/src/staticInner.java" />
         <option value="$PROJECT_DIR$/practice/src/javaFoundation/staticInner.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/practice/src/javaFoundation/genericProgramming.java" />
@@ -180,7 +205,15 @@
         <option value="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/第二题.java" />
         <option value="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/Main.java" />
         <option value="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/面值/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/LinkListIsCricled.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/零钱组合/main.py" />
         <option value="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/零钱组合/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/春招/京东/紧急疏散/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/春招/京东/第二题/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/春招/完美世界/第二题/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/春招/完美世界/第一题/Main.java" />
+        <option value="$PROJECT_DIR$/test/practice/dataTest.java" />
       </list>
     </option>
   </component>
@@ -209,6 +242,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,60 +251,16 @@
               <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercise" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="JobHunting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="JobHunting" type="462c0819:PsiDirectoryNode" />
-              <item name="练习" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="JobHunting" type="462c0819:PsiDirectoryNode" />
-              <item name="练习" type="462c0819:PsiDirectoryNode" />
-              <item name="春招" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="JobHunting" type="462c0819:PsiDirectoryNode" />
-              <item name="练习" type="462c0819:PsiDirectoryNode" />
-              <item name="春招" type="462c0819:PsiDirectoryNode" />
-              <item name="腾讯" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="JobHunting" type="462c0819:PsiDirectoryNode" />
-              <item name="练习" type="462c0819:PsiDirectoryNode" />
-              <item name="春招" type="462c0819:PsiDirectoryNode" />
-              <item name="腾讯" type="462c0819:PsiDirectoryNode" />
-              <item name="零钱组合" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="JobHunting" type="462c0819:PsiDirectoryNode" />
-              <item name="练习" type="462c0819:PsiDirectoryNode" />
-              <item name="腾讯往年" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554646390104" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555590607347" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../dataImport" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -282,15 +273,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\IDEAWorkSpace\exercise" />
       <recent name="E:\IDEAWorkSpace\exercise\lib" />
+      <recent name="E:\IDEAWorkSpace\exercise\lib\excels" />
+      <recent name="E:\IDEAWorkSpace\exercise" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEAWorkSpace\exercise" />
+      <recent name="E:\IDEAWorkSpace\exercise\JobHunting\练习\鸡鸭不相邻" />
+      <recent name="E:\IDEAWorkSpace\exercise\JobHunting\练习" />
       <recent name="E:\IDEAWorkSpace\exercise\JobHunting\练习\春招\腾讯\面值" />
       <recent name="E:\IDEAWorkSpace\exercise\JobHunting" />
-      <recent name="E:\IDEAWorkSpace\exercise" />
-      <recent name="E:\IDEAWorkSpace\exercise\practice" />
-      <recent name="E:\IDEAWorkSpace\exercise\practice\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -305,28 +297,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.dataTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="JobHunting" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.字符串空格替换.Main" />
+      <option name="MAIN_CLASS_NAME" value="春招.腾讯.零钱组合.Main" />
       <module name="JobHunting" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="剑指offer.字符串空格替换.*" />
+          <option name="PATTERN" value="春招.腾讯.零钱组合.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,12 +319,12 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="春招.腾讯.Main" />
+      <option name="MAIN_CLASS_NAME" value="春招.京东.紧急疏散.Main" />
       <module name="JobHunting" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="春招.腾讯.*" />
+          <option name="PATTERN" value="春招.京东.紧急疏散.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -348,41 +332,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="春招.春招360.组队吃鸡.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="春招.完美世界.第一题.Main" />
       <module name="JobHunting" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="春招.春招360.组队吃鸡.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="比特币最佳买卖时机.Main2" />
-      <module name="JobHunting" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="比特币最佳买卖时机.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.二维数组查找.Solution" />
-      <module name="JobHunting" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="剑指offer.二维数组查找.*" />
+          <option name="PATTERN" value="春招.完美世界.第一题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -396,12 +352,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="dataTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataTest" />
+      <module name="exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JobHunting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/零钱组合" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JobHunting/练习/春招/腾讯/零钱组合/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
@@ -423,11 +409,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.dataTest" />
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main2" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -493,6 +479,15 @@
       <workItem from="1554191749525" duration="678000" />
       <workItem from="1554292208929" duration="3813000" />
       <workItem from="1554462991443" duration="7242000" />
+      <workItem from="1554723282679" duration="10451000" />
+      <workItem from="1554885628801" duration="481000" />
+      <workItem from="1554989541961" duration="10734000" />
+      <workItem from="1555155673419" duration="10455000" />
+      <workItem from="1555291347146" duration="281000" />
+      <workItem from="1555291648562" duration="94000" />
+      <workItem from="1555329364050" duration="7527000" />
+      <workItem from="1555481582031" duration="2378000" />
+      <workItem from="1555580939229" duration="1562000" />
     </task>
     <task id="LOCAL-00001" summary="简历">
       <created>1552142925242</created>
@@ -510,23 +505,24 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="179735000" />
+    <option name="totallyTimeSpent" value="223698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08315451" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18562232" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.042410713" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.042410713" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5792411" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19642857" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47767857" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -534,11 +530,13 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.0" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.11383928" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.6484375" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Log Viewer" order="13" />
       <window_info anchor="bottom" id="Anonymous Apex" order="14" />
       <window_info anchor="bottom" id="SOQL Query" order="15" />
+      <window_info anchor="bottom" id="Duplicate detector" order="16" weight="0.5848214" />
+      <window_info anchor="right" id="Bean Validation" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -568,88 +566,22 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JobHunting/练习/春招/腾讯/零钱组合/Main.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JobHunting/练习/春招/京东/紧急疏散/Main.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/Desktop/netcdfAll-4.6.jar!/ucar/coord/CoordinateSharer.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="933" column="26" selection-start-line="933" selection-start-column="18" selection-end-line="933" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/src/javaFoundation/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/src/javaFoundation/SetRemove.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/production/practice/javaFoundation/FinalTest.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/src/javaFoundation/staticInner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/src/javaFoundation/HdfsOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="53" column="33" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/src/javaFoundation/paramsWithNull.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/src/javaFoundation/FinalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice/src/javaFoundation/genericProgramming.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -825,13 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/鸡鸭不相邻/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/concurrent/Executor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -895,13 +820,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/中国银行/比特币最佳买卖时机/Main.java">
+    <entry file="file://$PROJECT_DIR$/JobHunting/中国银行/比特币最佳买卖时机/Main.java" />
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LinkListIsCricled.java" />
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/腾讯/零钱组合/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="909">
+          <caret line="49" column="34" lean-forward="true" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -919,6 +846,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/腾讯/零钱组合/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/倒排链表/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -928,22 +865,79 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/三六零/组队吃鸡/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/京东/紧急疏散/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/京东/第二题/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/完美世界/第二题/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/鸡鸭不相邻/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/腾讯/第二题.java">
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        <state relative-caret-position="374">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/腾讯/零钱组合/Main.java">
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/腾讯/二进制相邻01抵消/第二题.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="352">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/practice/dataTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/完美世界/第一题/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

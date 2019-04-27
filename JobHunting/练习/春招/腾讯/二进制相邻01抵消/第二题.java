@@ -1,4 +1,4 @@
-package 春招.腾讯;
+package 春招.腾讯.二进制相邻01抵消;
 
 import java.util.Scanner;
 
