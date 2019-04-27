@@ -1,8 +1,4 @@
 package 比特币最佳买卖时机;
-
-import com.sun.xml.internal.messaging.saaj.packaging.mime.util.LineInputStream;
-
-import java.util.List;
 import java.util.Scanner;
 /**
  * @Description 给定一个正整数数组，它的第 i 个元素是比特币第 i 天的价格。
