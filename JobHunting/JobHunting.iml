@@ -10,6 +10,26 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/练习" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/中国银行" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/网易" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/猿辅导" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dji" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/虎牙" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/华为" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/拼多多" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/在线笔试" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/哔哩哔哩" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/京东" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/滴滴" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阿里" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/新浪" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/腾讯" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/爱奇艺" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/百度" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vivo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/小米" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/科大讯飞" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/字节跳动" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/招商银行" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

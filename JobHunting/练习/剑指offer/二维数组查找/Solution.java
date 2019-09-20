@@ -1,5 +1,7 @@
 package 剑指offer.二维数组查找;
 
+import java.util.Queue;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ExecutorService;
 
 /**
@@ -12,7 +14,6 @@ public class Solution {
         if (null==array){
             return false;
         }
-
         int rows= array.length-1;
         int cols=0;
 
