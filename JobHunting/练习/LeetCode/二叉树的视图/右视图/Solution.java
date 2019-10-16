@@ -1,8 +1,5 @@
-package LeetCode.二叉树的右视图;
+package LeetCode.二叉树的视图.右视图;
 
-import com.sun.org.apache.regexp.internal.RE;
-
-import javax.xml.soap.Node;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;

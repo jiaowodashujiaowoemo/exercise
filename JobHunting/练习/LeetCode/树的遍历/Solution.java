@@ -1,5 +1,6 @@
 package LeetCode.树的遍历;
 
+import com.sun.org.apache.xpath.internal.operations.Mod;
 import oracle.jrockit.jfr.openmbean.RecordingOptionsType;
 
 import java.util.*;
@@ -155,6 +156,46 @@ public class Solution {
     /**
      * 之字形打印二叉树
      */
+    public static ArrayList<ArrayList<Integer>> print(TreeNode pRoot){
+        ArrayList<ArrayList<Integer>> list=new ArrayList<>();
+        if (pRoot==null){
+            return list;
+        }
+        Stack<TreeNode> stack1=new Stack<>();
+        Stack<TreeNode> stack2=new Stack<>();
+
+        stack1.push(pRoot);
+        while (!stack1.isEmpty()||!stack2.isEmpty()){
+            ArrayList<Integer> temp=new ArrayList<>();
+            if (stack2.isEmpty()){
+                while (!stack1.isEmpty()){
+                    TreeNode node=stack1.pop();
+                    temp.add(node.val);
+                    if (node.left!=null){
+                        stack2.push(node.left);
+                    }
+                    if (node.right!=null){
+                        stack2.push(node.right);
+                    }
+                }
+            }else {
+                while (!stack2.isEmpty()){
+                    TreeNode node=stack2.pop();
+                    temp.add(node.val);
+                    if (node.right!=null){
+                        stack1.push(node.right);
+                    }
+                    if (node.left!=null){
+                        stack1.push(node.left);
+                    }
+                }
+            }
+            if (temp.size()>0){
+                list.add(temp);
+            }
+        }
+        return list;
+    }
 
 
 }

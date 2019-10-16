@@ -7,159 +7,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f214b710-79b7-4456-8928-c2f4d4319eef" name="Default" comment="简历">
-      <change afterPath="$PROJECT_DIR$/JobHunting/dji/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/vivo/Mainvivo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/vivo/Mainvivo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/vivo/Mainvivo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/京东/Mainjd1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/京东/Mainjd2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/华为/第一题/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/华为/第三题/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/华为/第二题/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/哔哩哔哩/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/哔哩哔哩/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/哔哩哔哩/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/在线笔试/MTMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/在线笔试/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/在线笔试/qihu360/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/在线笔试/中兴/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/在线笔试/华为/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/在线笔试/华为/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/在线笔试/小米/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/在线笔试/海康/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/在线笔试/腾讯/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/在线笔试/腾讯/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/在线笔试/贝壳/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/字节跳动/Mainbd1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/字节跳动/Mainbd2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/字节跳动/Mainbd3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/小米/Mainmi1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/小米/Mainmi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/招商银行/Main11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/招商银行/Main22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/招商银行/Main33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/拼多多/第一题/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/拼多多/第三题/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/拼多多/第二题/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/拼多多/第四题/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/新浪/LRU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/新浪/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/滴滴/Maindd1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/滴滴/Maindd2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/爱奇艺/Mainiqiyi1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/爱奇艺/Mainiqiyi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/猿辅导/八月24/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/猿辅导/八月24/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/猿辅导/字符压缩算法/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/猿辅导/迷宫之旅/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/猿辅导/面试/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/猿辅导/面试/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/百度/Mainbaidu1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/科大讯飞/Mainkeda1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/科大讯飞/Mainkeda2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/K数之和/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/N皇后/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/N皇后/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/三个数的最大乘积/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/丑数/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/丑数/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/两个排位数组的中位数/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/两个排位数组的中位数/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/两个排位数组的中位数/无序数组的中位数/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/两数之和/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/乘积最大子序列/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/二叉树的右视图/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/二叉树的直径/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/使序列递增的最小交换次数华为面试/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/各种打印矩阵/对角打印以及生成矩阵/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/各种打印矩阵/蛇形打印矩阵/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/四数之和/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/四数相加/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/大数运算/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/宝石与石头/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/对链表进行排序/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/数组中只出现一次的数字/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/数组中只出现一次的数字/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/数组中只出现一次的数字/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/数组中的逆序对/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/整数翻转/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/无重复字符的最长子串/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/最大二叉树/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/最大人工岛/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/最长回文串/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/树的遍历/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/移除链表元素/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/第一个只出现一次的字符/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/链表中数字相加/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/验证ip地址/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/验证栈序列/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/剑指offer/两个链表的第一个公共节点/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/剑指offer/二叉搜索树与双向链表/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/剑指offer/从1到n整数中1出现的次数/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/剑指offer/变态跳台阶/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/剑指offer/字符串的排列/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/剑指offer/数字在排序树组中出现的次数/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/剑指offer/数组中的逆序对/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/剑指offer/数组排成最小的数/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/剑指offer/树的深度/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/剑指offer/跳台阶/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/剑指offer/连续子数组最大和/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/剑指offer/重建二叉树/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/春招/头条/母牛生小牛/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/最长公共连续子串最长公共子序列/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/练习/最长公共连续子串最长公共子序列/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/网易/提前批/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/网易/提前批/第二题.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/腾讯/Maint1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/腾讯/Maint2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/腾讯/Maint4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/腾讯/Maint5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/腾讯/一面/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/虎牙/一面/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/阿里/AliMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JobHunting/阿里/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/src/javaFoundation/FIFO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/src/javaFoundation/LRU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/src/javaFoundation/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/在线笔试/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/在线笔试/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/在线笔试/联通/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/买卖股票的最佳时机/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/买卖股票的最佳时机/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/买卖股票的最佳时机/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/买卖股票的最佳时机/Solution4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/二叉搜索树中第k小的元素/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/二叉树左下角的节点/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/二叉树最大宽度/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/最长递增子序列/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/最长递增子序列/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/零钱兑换/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/验证ip地址/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/交错正负数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/练习/找出数组中缺失的两个数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/网易/正式批/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/网易/正式批/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/网易/正式批/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/网易/正式批/Main3 input" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/网易/正式批/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JobHunting/网易/正式批/Main4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JobHunting/JobHunting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JobHunting/JobHunting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JobHunting/练习/LeetCode/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JobHunting/练习/剑指offer/二维数组查找/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/JobHunting/练习/剑指offer/二维数组查找/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JobHunting/练习/鸡鸭不相邻/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JobHunting/练习/鸡鸭不相邻/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/javaFoundation/HdfsOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/javaFoundation/HdfsOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/javaFoundation/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/javaFoundation/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/JobHunting/LeetCode/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/JobHunting/META-INF/JobHunting.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/production/JobHunting/META-INF/JobHunting.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/JobHunting/剑指offer/二维数组查找/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/JobHunting/剑指offer/二维数组查找/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/JobHunting/春招/完美世界/第一题/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/JobHunting/春招/完美世界/第一题/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/JobHunting/鸡鸭不相邻/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/JobHunting/鸡鸭不相邻/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/JavaConcurrency/MyThreadTest$MyThread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/JavaConcurrency/MyThreadTest$MyThread1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/JavaConcurrency/MyThreadTest$MyThread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/JavaConcurrency/MyThreadTest$MyThread2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/JavaConcurrency/MyThreadTest$MyThread3.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/JavaConcurrency/MyThreadTest$MyThread3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/JavaConcurrency/MyThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/JavaConcurrency/MyThreadTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/JavaConcurrency/SyncTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/JavaConcurrency/SyncTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/JavaConcurrency/Test$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/JavaConcurrency/Test$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/JavaConcurrency/Test$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/JavaConcurrency/Test$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/JavaConcurrency/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/JavaConcurrency/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/JavaConcurrency/atomic.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/JavaConcurrency/atomic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/javaFoundation/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/javaFoundation/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/javaFoundation/FinalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/javaFoundation/FinalTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/javaFoundation/HdfsOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/javaFoundation/HdfsOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/javaFoundation/ImmutableObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/javaFoundation/ImmutableObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/javaFoundation/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/javaFoundation/Parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/javaFoundation/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/javaFoundation/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/javaFoundation/SetRemove.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/javaFoundation/SetRemove.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/javaFoundation/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/javaFoundation/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/javaFoundation/Value.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/javaFoundation/Value.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/javaFoundation/collection.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/javaFoundation/collection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/javaFoundation/genericProgramming.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/javaFoundation/genericProgramming.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/javaFoundation/inherit.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/javaFoundation/inherit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/javaFoundation/paramsWithNull.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/javaFoundation/paramsWithNull.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/javaFoundation/staticInner$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/javaFoundation/staticInner$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/javaFoundation/staticInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/javaFoundation/staticInner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/practice/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/practice/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JobHunting/练习/LeetCode/二叉树的右视图/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/二叉树的视图/右视图/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JobHunting/练习/LeetCode/最大人工岛/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/最大人工岛/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JobHunting/练习/LeetCode/树的遍历/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/JobHunting/练习/LeetCode/树的遍历/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JobHunting/练习/剑指offer/两个链表的第一个公共节点/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JobHunting/练习/剑指offer/两个链表的第一个公共节点/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JobHunting/LeetCode/二叉树的右视图/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JobHunting/LeetCode/二叉树的右视图/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JobHunting/LeetCode/八皇后/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JobHunting/LeetCode/最大二叉树/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/JobHunting/LeetCode/最大二叉树/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JobHunting/LeetCode/最大二叉树/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/JobHunting/LeetCode/最大二叉树/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JobHunting/LeetCode/树的遍历/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/JobHunting/LeetCode/树的遍历/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JobHunting/LeetCode/树的遍历/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/JobHunting/LeetCode/树的遍历/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JobHunting/LeetCode/树的遍历/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/JobHunting/LeetCode/树的遍历/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JobHunting/剑指offer/两个链表的第一个公共节点/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/JobHunting/剑指offer/两个链表的第一个公共节点/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JobHunting/剑指offer/两个链表的第一个公共节点/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/JobHunting/剑指offer/两个链表的第一个公共节点/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JobHunting/春招/头条/母牛生小牛/Main.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -177,107 +62,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/验证栈序列/Solution.java">
+        <entry file="file://$PROJECT_DIR$/JobHunting/在线笔试/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/四数之和/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="396">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/四数相加/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/最长回文串/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="809">
-              <caret line="49" column="65" lean-forward="true" selection-start-line="49" selection-start-column="65" selection-end-line="49" selection-end-column="65" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/N皇后/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/N皇后/Solution2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="814">
-              <caret line="37" column="30" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#129#142#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/最大二叉树/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/最大人工岛/Solution.java">
+        <entry file="file://$PROJECT_DIR$/JobHunting/在线笔试/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/K数之和/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+            <state relative-caret-position="308">
+              <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="581">
-              <caret line="584" column="9" selection-start-line="584" selection-start-column="9" selection-end-line="584" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -338,35 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JobHunting/vivo/Mainvivo3.java" />
-        <option value="$PROJECT_DIR$/JobHunting/小米/Mainmi1.java" />
-        <option value="$PROJECT_DIR$/JobHunting/小米/Mainmi2.java" />
-        <option value="$PROJECT_DIR$/JobHunting/练习/剑指offer/连续子数组最大和/Main.java" />
-        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/丑数/Solution.java" />
-        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/丑数/Solution2.java" />
-        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/丑数/Solution1.java" />
-        <option value="$PROJECT_DIR$/JobHunting/科大讯飞/Main1.java" />
-        <option value="$PROJECT_DIR$/JobHunting/科大讯飞/Mainkeda1.java" />
-        <option value="$PROJECT_DIR$/JobHunting/腾讯/Maint1.java" />
-        <option value="$PROJECT_DIR$/JobHunting/在线笔试/腾讯/Main1.java" />
-        <option value="$PROJECT_DIR$/practice/src/test.java" />
-        <option value="$PROJECT_DIR$/JobHunting/练习/剑指offer/从1到n整数中1出现的次数/Main.java" />
-        <option value="$PROJECT_DIR$/JobHunting/科大讯飞/Mainkeda2.java" />
-        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/链表中数字相加/Main1.java" />
-        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/无重复字符的最长子串/Main.java" />
-        <option value="$PROJECT_DIR$/JobHunting/练习/剑指offer/数组排成最小的数/Main.java" />
-        <option value="$PROJECT_DIR$/JobHunting/练习/剑指offer/数组中的逆序对/Main.java" />
-        <option value="$PROJECT_DIR$/JobHunting/练习/剑指offer/两个链表的第一个公共节点/Main.java" />
-        <option value="$PROJECT_DIR$/JobHunting/练习/剑指offer/数字在排序树组中出现的次数/Main.java" />
-        <option value="$PROJECT_DIR$/JobHunting/练习/剑指offer/树的深度/Main.java" />
-        <option value="$PROJECT_DIR$/JobHunting/练习/剑指offer/变态跳台阶/Main.java" />
-        <option value="$PROJECT_DIR$/JobHunting/练习/剑指offer/跳台阶/Main.java" />
-        <option value="$PROJECT_DIR$/JobHunting/练习/剑指offer/重建二叉树/Main.java" />
-        <option value="$PROJECT_DIR$/JobHunting/字节跳动/Mainbd2.java" />
-        <option value="$PROJECT_DIR$/JobHunting/字节跳动/Mainbd1.java" />
-        <option value="$PROJECT_DIR$/JobHunting/字节跳动/Mainbd3.java" />
-        <option value="$PROJECT_DIR$/JobHunting/招商银行/Main11.java" />
-        <option value="$PROJECT_DIR$/JobHunting/招商银行/Main22.java" />
         <option value="$PROJECT_DIR$/JobHunting/招商银行/Main33.java" />
         <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/二叉树的直径/Solution.java" />
         <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/验证ip地址/Solution.java" />
@@ -388,7 +162,36 @@
         <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/N皇后/Solution.java" />
         <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/N皇后/Solution2.java" />
         <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/最大二叉树/Solution.java" />
+        <option value="$PROJECT_DIR$/JobHunting/网易/正式批/Main1.java" />
+        <option value="$PROJECT_DIR$/JobHunting/网易/正式批/Main2.java" />
+        <option value="$PROJECT_DIR$/JobHunting/网易/正式批/Main4.java" />
+        <option value="$PROJECT_DIR$/JobHunting/网易/正式批/Main3 input" />
+        <option value="$PROJECT_DIR$/JobHunting/网易/正式批/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/网易/正式批/Main3.java" />
         <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/最大人工岛/Solution.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/剑指offer/两个链表的第一个公共节点/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/最长自增子序列/Solution1.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/最长自增子序列/Solution2.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/买卖股票的最佳时机/Solution1.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/买卖股票的最佳时机/Solution2.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/买卖股票的最佳时机/Solution4.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/买卖股票的最佳时机/Solution3.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/二叉树的视图/Solution.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/二叉树的视图/右视图/Solution.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/零钱兑换/Solution1.java" />
+        <option value="$PROJECT_DIR$/JobHunting/在线笔试/联通/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/树的遍历/Solution.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/最长递增子序列/Solution1.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/最长递增子序列/Solution2.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/验证ip地址/Solution2.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/交错正负数/Solution.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/二叉搜索树中第k小的元素/Solution.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/二叉树左下角的节点/Main2.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/二叉树左下角的节点/Main2.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/LeetCode/二叉树最大宽度/Solution.java" />
+        <option value="$PROJECT_DIR$/JobHunting/练习/找出数组中缺失的两个数/Solution.java" />
+        <option value="$PROJECT_DIR$/JobHunting/在线笔试/Main.java" />
+        <option value="$PROJECT_DIR$/JobHunting/在线笔试/Solution.java" />
       </list>
     </option>
   </component>
@@ -435,21 +238,7 @@
               <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercise" type="462c0819:PsiDirectoryNode" />
               <item name="JobHunting" type="462c0819:PsiDirectoryNode" />
-              <item name="练习" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="JobHunting" type="462c0819:PsiDirectoryNode" />
-              <item name="练习" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="JobHunting" type="462c0819:PsiDirectoryNode" />
-              <item name="练习" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
+              <item name="在线笔试" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
@@ -481,23 +270,24 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEAWorkSpace\exercise\lib" />
+      <recent name="E:\IDEAWorkSpace\exercise\lib\excels" />
+      <recent name="E:\IDEAWorkSpace\exercise" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="二叉树左下角的节点" />
+      <recent name="javaFoundation" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\IDEAWorkSpace\exercise" />
       <recent name="E:\IDEAWorkSpace\exercise\JobHunting\练习\鸡鸭不相邻" />
       <recent name="E:\IDEAWorkSpace\exercise\JobHunting\练习" />
       <recent name="E:\IDEAWorkSpace\exercise\JobHunting\练习\春招\腾讯\面值" />
       <recent name="E:\IDEAWorkSpace\exercise\JobHunting" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="javaFoundation" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\IDEAWorkSpace\exercise\lib" />
-      <recent name="E:\IDEAWorkSpace\exercise\lib\excels" />
-      <recent name="E:\IDEAWorkSpace\exercise" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -512,7 +302,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -520,23 +310,15 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="各种打印矩阵.蛇形打印矩阵1.Main" />
+      <option name="MAIN_CLASS_NAME" value="正式批.Main" />
       <module name="JobHunting" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="各种打印矩阵.蛇形打印矩阵1.*" />
+          <option name="PATTERN" value="正式批.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main22" />
-      <module name="JobHunting" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -555,29 +337,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mainbd1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mainbd1" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.最大人工岛.Solution" />
       <module name="JobHunting" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.最大人工岛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mainbd3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mainbd3" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.二叉搜索树中第k小的元素.Solution" />
       <module name="JobHunting" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.二叉搜索树中第k小的元素.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.四数之和.Solution" />
+      <option name="MAIN_CLASS_NAME" value="交错正负数.Solution" />
       <module name="JobHunting" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.四数之和.*" />
+          <option name="PATTERN" value="交错正负数.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -586,12 +380,26 @@
       </method>
     </configuration>
     <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="最长公共连续子串最长公共子序列.Solution1" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.最长递增子序列.Solution1" />
       <module name="JobHunting" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="最长公共连续子串最长公共子序列.*" />
+          <option name="PATTERN" value="LeetCode.最长递增子序列.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.验证ip地址.Solution2" />
+      <module name="JobHunting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.验证ip地址.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -632,11 +440,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution1" />
-        <item itemvalue="Application.Main22" />
-        <item itemvalue="Application.Mainbd3" />
-        <item itemvalue="Application.Mainbd1" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -731,7 +539,11 @@
       <workItem from="1566384084814" duration="62264000" />
       <workItem from="1567137611768" duration="719000" />
       <workItem from="1567146765364" duration="17947000" />
-      <workItem from="1567473157804" duration="214965000" />
+      <workItem from="1567473157804" duration="222270000" />
+      <workItem from="1569057603976" duration="298000" />
+      <workItem from="1569057932027" duration="69813000" />
+      <workItem from="1569677981456" duration="4245000" />
+      <workItem from="1569741686115" duration="3260000" />
     </task>
     <task id="LOCAL-00001" summary="简历">
       <created>1552142925242</created>
@@ -749,13 +561,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="621901000" />
+    <option name="totallyTimeSpent" value="706822000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27145922" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.020386266" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -764,14 +576,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.042410713" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946353" weight="0.08816964" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.12165178" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946353" weight="0.2109375" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.24888393" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.42857143" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33370537" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005365" side_tool="true" weight="0.2544643" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.059151787" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -888,375 +700,50 @@
           <properties />
           <option name="timeStamp" value="38" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JobHunting/网易/正式批/Main2.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JobHunting/网易/正式批/Main4.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JobHunting/练习/LeetCode/最大人工岛/Solution.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JobHunting/练习/LeetCode/最长递增子序列/Solution1.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JobHunting/练习/LeetCode/验证ip地址/Solution2.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JobHunting/练习/LeetCode/二叉搜索树中第k小的元素/Solution.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JobHunting/科大讯飞/Mainkeda2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/腾讯/Maint5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/腾讯/Maint4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/猿辅导/字符压缩算法/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/从1到n整数中1出现的次数/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/链表中数字相加/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="638" column="33" selection-start-line="638" selection-start-column="33" selection-end-line="638" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="207" column="16" lean-forward="true" selection-start-line="207" selection-start-column="16" selection-end-line="207" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/科大讯飞/Mainkeda1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/无重复字符的最长子串/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/哔哩哔哩/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/数组排成最小的数/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/数组中的逆序对/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-          <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/两个链表的第一个公共节点/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
-          <folding>
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/猿辅导/面试/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/数字在排序树组中出现的次数/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/树的深度/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/变态跳台阶/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/跳台阶/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/重建二叉树/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/三个数的最大乘积/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/字节跳动/Mainbd2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/字节跳动/Mainbd3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#274#309#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/字节跳动/Mainbd1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1464#1519#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/招商银行/Main11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/招商银行/Main33.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/招商银行/Main22.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/dji/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="98" column="34" selection-start-line="98" selection-start-column="28" selection-end-line="98" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/新浪/LRU.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/使序列递增的最小交换次数华为面试/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/验证ip地址/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/二叉树的直径/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/两个排位数组的中位数/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/两个排位数组的中位数/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="655" column="16" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/最长公共连续子串最长公共子序列/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/最长公共连续子串最长公共子序列/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/大数运算/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/对链表进行排序/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="116" column="25" selection-start-line="116" selection-start-column="25" selection-end-line="116" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2899#2900#0" expanded="true" />
-            <element signature="e#2922#2923#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/数组中的逆序对/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/移除链表元素/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/验证栈序列/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
-          <caret line="584" column="9" selection-start-line="584" selection-start-column="9" selection-end-line="584" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/K数之和/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/四数之和/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/四数相加/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="704">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1266,7 +753,7 @@
     <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/最长回文串/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="809">
-          <caret line="49" column="65" lean-forward="true" selection-start-line="49" selection-start-column="65" selection-end-line="49" selection-end-column="65" />
+          <caret line="49" column="65" selection-start-line="49" selection-start-column="65" selection-end-line="49" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1280,13 +767,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/春招/头条/母牛生小牛/Main.java" />
+    <entry file="file://$PROJECT_DIR$/JobHunting/网易/正式批/Main3 input">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="1" lean-forward="true" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/N皇后/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="37" column="30" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        <state relative-caret-position="770">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#129#142#0" />
           </folding>
         </state>
       </provider>
@@ -1294,14 +788,346 @@
     <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/最大二叉树/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/网易/正式批/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/网易/正式批/Main4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="52" column="35" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/数组中的逆序对/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="38" column="41" selection-end-line="51" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/网易/正式批/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/网易/正式批/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/网易/正式批/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/最大人工岛/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="64" column="38" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3324#3325#0" expanded="true" />
+            <element signature="e#3393#3394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/两个链表的第一个公共节点/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/买卖股票的最佳时机/Solution4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="42" column="64" selection-start-line="42" selection-start-column="64" selection-end-line="42" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/买卖股票的最佳时机/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/买卖股票的最佳时机/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/买卖股票的最佳时机/Solution3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="63" column="15" selection-start-line="63" selection-start-column="15" selection-end-line="63" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/二叉树的视图/右视图/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/text/DateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="151" column="22" selection-start-line="151" selection-start-column="22" selection-end-line="151" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/跳台阶/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6502">
+          <caret line="235" column="27" lean-forward="true" selection-start-line="235" selection-start-column="27" selection-end-line="235" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/在线笔试/联通/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/剑指offer/变态跳台阶/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="285" column="19" selection-start-line="285" selection-start-column="19" selection-end-line="285" selection-end-column="19" />
+          <folding>
+            <element signature="e#10398#10399#0" expanded="true" />
+            <element signature="e#10430#10431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="2879" column="23" selection-start-line="2879" selection-start-column="23" selection-end-line="2879" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/零钱兑换/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/最长递增子序列/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="76" column="27" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/验证ip地址/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/交错正负数/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/整数翻转/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="2497" column="25" selection-start-line="2497" selection-start-column="25" selection-end-line="2497" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="614" column="19" selection-start-line="614" selection-start-column="19" selection-end-line="614" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/验证ip地址/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1606">
+          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/树的遍历/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2926">
+          <caret line="136" column="13" selection-start-line="136" selection-start-column="13" selection-end-line="136" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/二叉搜索树中第k小的元素/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/二叉树的直径/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/二叉树最大宽度/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/concurrent/locks/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3652">
+          <caret line="166" selection-start-line="166" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/concurrent/locks/StampedLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19382">
+          <caret line="881" column="16" selection-start-line="881" selection-start-column="16" selection-end-line="881" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/concurrent/locks/ReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2596">
+          <caret line="118" column="32" selection-start-line="118" selection-start-column="32" selection-end-line="118" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5500">
+          <caret line="250" column="7" selection-start-line="250" selection-start-column="7" selection-end-line="250" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/找出数组中缺失的两个数/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="337" column="25" selection-start-line="337" selection-start-column="25" selection-end-line="337" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/猿辅导/面试/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/猿辅导/面试/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/二叉树左下角的节点/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/练习/LeetCode/最长递增子序列/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/在线笔试/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JobHunting/在线笔试/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

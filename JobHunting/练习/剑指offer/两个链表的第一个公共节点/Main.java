@@ -5,7 +5,12 @@ package 剑指offer.两个链表的第一个公共节点;
  * 2019/09/14,21:24
  */
 public class Main {
-    public ListNode FindFirstCommonNode(ListNode pHead1, ListNode pHead2) {
+    public static void main(String[] args) {
+
+    }
+
+
+    public static ListNode FindFirstCommonNode(ListNode pHead1, ListNode pHead2) {
         if (pHead1 == null || pHead2 == null) {
             return null;
         }
